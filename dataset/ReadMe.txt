@@ -1,0 +1,3 @@
+The data utilized in this study include ground-level ozone, temperature, pressure, wind, and relative humidity measurements across US counties from 1980 to 2017. These datasets are publicly available from the U.S. Environmental Protection Agency (EPA) at https://aqs.epa.gov/aqsweb/airdata/download_files.html. State-wise data on energy consumption and production used in our analysis can be accessed through the U.S. Energy Information Administration's State Energy Data System (SEDS) portal at https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/balancing_authority/PJM. The authors made all preprocessed data available at https://doi.org/10.5281/zenodo.13274569.
+
+Updated 13 May 2025
