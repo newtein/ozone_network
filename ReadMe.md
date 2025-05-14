@@ -234,7 +234,3 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 ## Acknowledgments
 
 This research was conducted by **Harshit Gujral**, **Somya Jain**, and **Adwitiya Sinha**. The development of the ozone network modeling approach and the analyses were carried out at the University of Toronto (Department of Computer Science) and collaborating institutions. The authors would like to thank **Prof. Steve Easterbrook** (University of Toronto) for his valuable insights and discussions, which significantly enriched this work. We also acknowledge the U.S. EPA and EIA for providing open access to air quality and energy data, without which this study would not have been possible.
-
-Contributions: H. Gujral led the data analysis and code development (writing the original draft of the manuscript and software), S. Jain contributed to method development and result interpretation, and A. Sinha provided guidance on network science techniques and edited the manuscript.
-
-Finally, we appreciate the open-source community and the developers of the Python libraries used in this project. Their tools enabled complex environmental data analysis and visualization in this work.
